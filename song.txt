@@ -6,4 +6,8 @@ on this their chosen battle field
 Form the lines
 Shield by shield
 
+
 ide teszünk még szöveget a main branchre
+
+ezt pedig a feature branchre tesszük
+
